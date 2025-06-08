@@ -1,0 +1,7 @@
+Ticket Information:
+Seat: A4
+Price: £200
+Person Information:
+Name: Menaya
+Surname: Karunanayake
+Email: menayakarunanayake@gmail.com
