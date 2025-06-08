@@ -1,3 +1,5 @@
+# Plane Management System
+
 The Plane Ticket Management System is a java-based application that enables users to book, cancel and manage flight tickets efficiently. It simulates the basic ticketing environment where each seat on a plane can be reserved by a passanger, and ticket prices are determined dynamically based on the location of the seat selected.
 
 Key Features
@@ -11,7 +13,7 @@ Key Features
       
       Built-in checks to prevent multiple bookings on the same seat
 
-Technologies Used
+Technologies Used                
       Application Logic: Java 
       
       Data Storing: Arrays
