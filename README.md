@@ -13,7 +13,8 @@ Key Features
       
       Built-in checks to prevent multiple bookings on the same seat
 
-Technologies Used                
+Technologies Used   
+
       Application Logic: Java 
       
       Data Storing: Arrays
